@@ -1,3 +1,2 @@
 # ted_talks_summarizer
-
-![](gradio_app/TED.png)
+<center><img src="gradio_app/TED.png" width=180px></center>
