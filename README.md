@@ -15,4 +15,4 @@ https://colab.research.google.com/github/r-c-c/ted_talks_summarizer/blob/main/te
 
 Sample from app:
 
-<center><img src="app_ss.png" width=300px></center>
+<img src="app_ss.png" width=700px>
