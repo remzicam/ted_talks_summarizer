@@ -11,7 +11,8 @@ https://huggingface.co/spaces/remzicam/ted_talks_summarizer
 
 The process can be slow in huggingface space. Alternatively you can try it on google colab:
 
-![Open In Colab](https://colab.research.google.com/github/r-c-c/ted_talks_summarizer/blob/main/ted_talk_transcriber.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/r-c-c/ted_talks_summarizer/blob/main/ted_talk_transcriber.ipynb)
 
 Sample from app:
 
