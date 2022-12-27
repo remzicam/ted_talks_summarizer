@@ -15,4 +15,4 @@ The process can be slow in huggingface space. Alternatively you can try it on go
 
 Sample from app:
 
-
+<img src="app_ss.png">
